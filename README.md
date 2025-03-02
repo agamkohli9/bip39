@@ -1,4 +1,4 @@
-# bip39
+# bip39-generator
 BIP39 Mnemonic Generator with optional user provided and keyboard entropy
 
 Prints mnemonic and seed hex to stdout on one line each respectively.
