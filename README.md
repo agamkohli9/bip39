@@ -10,7 +10,16 @@ joke august travel pledge lobster switch segment middle mean abandon spoon blous
 ```
 
 # Installation
+Install from the AUR with an AUR helper like yay:
 ```
+yay -S bip39-generator-git
+bip39 -h
+```
+
+Alternatively, clone the repository and install the requirements:
+```
+git clone https://github.com/agamkohli9/bip39-generator.git
+cd bip39-generator
 pip install -r requirements.txt
 ```
 

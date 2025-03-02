@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """BIP-39 Mnemonic Generator.
 
 Prints mnemonic and seed hex to stdout on one line each respectively."""
